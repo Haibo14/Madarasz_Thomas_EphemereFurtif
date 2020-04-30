@@ -1,0 +1,17 @@
+Fait :
+-Mécanique principale (Avancer le temps et reculer le temps)
+-Controller (Première version et contrôle de la mécanique principale)
+-Rails (Apparition et disparition)
+-Train (Première tentative de modélisation - à refaire)
+-Camera (Première proposition - à refaire)
+-Mer de nuage
+-Sablier
+
+A faire :
+-Nouveaux éléments métaphoriques (sakura, ...)
+-Controller (Intégration de nouvelles fonctionnalités + design)
+-Train (Nouvelle version)
+-Camera (Nouvelle proposition)
+-Ambiance visuelle
+-Ambiance Sonore
+-Dossier
